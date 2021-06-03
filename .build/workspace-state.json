@@ -1,1 +1,0 @@
-{"object": {"artifacts": [{"packageRef": {"identity": "marketingcloudsdk-ios", "kind": "root", "name": "MarketingCloudSDK-iOS", "path": "/Users/Jack/Developer/JackoPlane/MarketingCloudSDK-iOS"}, "source": {"path": "MarketingCloudSDK/MarketingCloudSDK.xcframework", "type": "local"}, "targetName": "MarketingCloudSDK"}], "dependencies": []}, "version": 4}
