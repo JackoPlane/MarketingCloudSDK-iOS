@@ -1,0 +1,14 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.MarketingCloudSDK-Bundle-debug.module" : "MarketingCloudSDK-Bundle"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

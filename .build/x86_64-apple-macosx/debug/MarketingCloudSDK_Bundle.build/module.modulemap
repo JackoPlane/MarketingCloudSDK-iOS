@@ -1,0 +1,4 @@
+module MarketingCloudSDK_Bundle {
+    header "/Users/Jack/Developer/JackoPlane/MarketingCloudSDK-iOS/.build/x86_64-apple-macosx/debug/MarketingCloudSDK_Bundle.build/MarketingCloudSDK-Bundle-Swift.h"
+    requires objc
+}

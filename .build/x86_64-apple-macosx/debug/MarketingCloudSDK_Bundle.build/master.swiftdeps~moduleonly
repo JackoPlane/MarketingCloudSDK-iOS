@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b1976cf08bffd32ddfc9716bba357acd"
+build_time: [1622756055, 488035000]
+inputs:
+  "/Users/Jack/Developer/JackoPlane/MarketingCloudSDK-iOS/MarketingCloudSDK/Empty.swift": [1622755969, 518517298]
